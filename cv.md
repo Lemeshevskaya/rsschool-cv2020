@@ -5,7 +5,7 @@
 ### Contacts:  
 
 E-mail: [birtochka@gmail.com](mailto:birtochka@gmail.com)  
-Phone: [+375 (29) 682 90 13](tel:+375 29 682 90 13)  
+Phone: [+375 (29) 682 90 13](tel:+375296829013)  
 Skype: [Lemeshevskaya Olga](https://join.skype.com/invite/BACgRTypv0E1)  
 
 ***  
