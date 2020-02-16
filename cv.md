@@ -6,15 +6,15 @@
 
 E-mail: [birtochka@gmail.com](mailto:birtochka@gmail.com)  
 Phone: [+375 (29) 682 90 13](tel:+375 29 682 90 13)  
-Skype: [Lemeshevskaya Olga](skype:<lemeshevskaya olga>)
+Skype: [Lemeshevskaya Olga](https://join.skype.com/invite/BACgRTypv0E1)  
 
 ***  
 
-### Summary:
+### Summary:  
 
 I have a goal, I want to become a front-end developer. I am learning for this and am ready to learn new things for me, to practice, read and learn from others. I know that my determination to become an excellent specialist in the future.  
 
-***
+***  
 
 ### Skills:  
 
@@ -26,7 +26,7 @@ I have a goal, I want to become a front-end developer. I am learning for this an
 
 ***
 
-### Code examples:
+### Code examples:  
 
     <footer class="page-footer">
           <div class="container">
@@ -38,7 +38,7 @@ I have a goal, I want to become a front-end developer. I am learning for this an
         
 ***
         
-### Experience:
+### Experience:  
 
 
 My last project was the final work after finishing the Front-end course  
@@ -58,13 +58,4 @@ March-June 2018  - HTML, CSS, JavaScript Course - Website Development Training i
 
 ### English:  
 
-Intermediate and I keep learning english now.
-
-
-
-  
-
-
-
-
- 
+Intermediate and I keep learning english now.  
